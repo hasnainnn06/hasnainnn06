@@ -47,10 +47,10 @@
 
 ---
 
-📈 **GitHub Stats**
+ **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainnn06&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainnn06&layout=compact)
 
 ---
 
